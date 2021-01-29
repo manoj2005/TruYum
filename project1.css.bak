@@ -1,0 +1,146 @@
+#top {background-color:navy;
+	  height:90px;
+	  width:1522px;
+	  color:white;
+	  font-size:65px;
+     }
+
+
+#bot {height:613px;
+      width:1520px;
+	  color:black;
+	  border:1px black solid;
+     }
+
+#he {color:black;
+     margin:50px 0px 0px 100px
+    }
+
+#tr {margin:15px 0px 0px 30px;float:left
+    }
+
+table{margin:45px 0px 0px 50px;
+      font-size:25px;
+	 }
+
+#m{float:right;
+   font-size:37px;
+   margin:25px 80px 0px 0px;
+   color:white}
+
+#bbb {height:70px;
+      width:70px;
+	  margin:10px 0px 0px 20px}
+
+.c{margin:20px 50px 0px 40px;
+   font-size:37px;
+   float:right;
+   color:white}
+
+strong{margin:0px 0px 0px 70px}
+
+#nn {margin:0px 50px 0px 45px}
+.nnn{float:left;
+     margin:0px 0px 0px 45px}
+.aaa{margin:0px 0px 0px 85px;
+     text-align:center;}
+#cr{height:80px;
+    width:1520px;
+	background-color:gray;
+	margin-top:202px;
+	font-size:20px}
+#dummy{margin-top:30px;
+       float:left}
+#qwert{margin:0px 18px 0px 30px}
+#zxc{margin:0px 15px 0px 35px}
+#bnm{margin:0px 70px 0px 85px}
+#cate{margin:0px 35px 0px 40px}
+#free{margin:0px 0px 0px 20px}
+#act{margin:0px 40px 0px 100px}
+#crr{height:80px;
+     width:1520px;
+	 background-color:gray;
+	 margin-top:268px;
+	 font-size:20px}
+#bnma{margin:0px 40px 0px 30px}
+#catea{margin:0px 130px 0px 135px}
+#freea{margin:0px 115px 0px 145px}
+#acta{margin:0px 0px 0px 15px}
+#cr1{margin-top:450px;
+     background-color:gray;
+	 height:80px;
+	 width:1520px;
+	 font-size:20px}
+#fff{margin:80px 0px 0px 140px}
+#rrr{margin:60px 0px 0px 140px;
+     float:left;
+	 font-size:20px}
+#namebox{height:22px;
+         width:950px;
+		 margin:0px 420px 0px 0px;
+		 float:right}
+#tableedit{margin:40px 0px 0px 140px;}
+.ma{text-align:left;
+    margin:2px 25px 0px 95px;
+	float:left;
+	height:25px;
+	width:180px}
+.na{text-align:left;
+    margin:0px 15px 0px 95px;
+	font-size:20px
+    }
+#da{margin:0px 2px 0px 90px;
+    height:15px}
+#daa{margin:0px 2px 0px 15px;
+     height:15px}
+#sss{text-align:right}
+#check{margin:30px 0px 0px 143px;}
+#deli{margin:0px 5px 0px 7px;
+      font-size:20px}
+#btn{color:white;
+     background-color:navy;
+	 margin:0px 0px 0px 143px;
+	 height:50px;
+	 width:140px;
+	 font-size:20px}
+#crrr{height:80px;
+      width:1520px;
+	  background-color:gray;
+	  margin-top:84px;
+	  font-size:20px}
+#crdd{height:80px;
+      width:1520px;
+	  background-color:gray;
+	  margin-top:280px;
+	  font-size:20px}
+#ehe{margin:110px 0px 40px 130px;}
+#ehee{margin:0px 0px 0px 130px;
+      color:green;
+	  font-size:25px}
+#success{color:green;
+         font-size:25px;
+		 margin:0px 0px 0px 500px}
+#lolo{height:80px;
+      width:1520px;
+	  background-color:gray;
+	  margin-top:203px;
+	  font-size:20px}
+#lmao{height:80px;
+      width:1520px;
+	  background-color:gray;
+	  margin-top:186px;
+	  font-size:20px}
+#ttt{margin:0px 0px 0px 0px}
+#ooo{margin:0px 0px 0px 0px}
+#hell{margin:100px 0px 0px 100px}
+#heaven{color:green;
+        font-size:25px;
+	    margin:0px 0px 0px 310px}
+#hello{margin:70px 0px 0px 100px }
+#rofl{height:80px;
+      width:1520px;
+	  background-color:gray;
+	  margin-top:183px;
+	  font-size:20px}
+#bnmaa{margin:0px 25px 0px 15px}
+#freeaa{margin:0px 100px 0px 130px}
